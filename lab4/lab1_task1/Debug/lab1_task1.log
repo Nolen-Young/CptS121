@@ -1,0 +1,16 @@
+﻿  task1.c
+d:\nolen\documents\computer science\cpts_121\lab4\lab1_task1\task1.c(6): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+d:\nolen\documents\computer science\cpts_121\lab4\lab1_task1\task1.c(13): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+d:\nolen\documents\computer science\cpts_121\lab4\lab1_task1\task1.c(20): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+d:\nolen\documents\computer science\cpts_121\lab4\lab1_task1\task1.c(27): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+d:\nolen\documents\computer science\cpts_121\lab4\lab1_task1\task1.c(34): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+  main.c
+d:\nolen\documents\computer science\cpts_121\lab4\lab1_task1\main.c(18): warning C4244: 'function': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  lab1_task1.vcxproj -> D:\Nolen\Documents\Computer Science\cpts_121\lab4\lab1_task1\Debug\lab1_task1.exe
+  lab1_task1.vcxproj -> D:\Nolen\Documents\Computer Science\cpts_121\lab4\lab1_task1\Debug\lab1_task1.pdb (Full PDB)

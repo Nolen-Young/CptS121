@@ -1,0 +1,9 @@
+﻿  task1.c
+d:\nolen\documents\computer science\cpts_121\lab9\lab9_task1\task1.c(10): warning C4047: '=': 'char' differs in levels of indirection from 'char *'
+d:\nolen\documents\computer science\cpts_121\lab9\lab9_task1\task1.c(12): warning C4047: '=': 'char *' differs in levels of indirection from 'char'
+  main.c
+d:\nolen\documents\computer science\cpts_121\lab9\lab9_task1\main.c(6): warning C4047: 'function': 'char **' differs in levels of indirection from 'char (*)[18]'
+d:\nolen\documents\computer science\cpts_121\lab9\lab9_task1\main.c(6): warning C4024: 'string_reverse': different types for formal and actual parameter 1
+  Generating Code...
+  lab9_task1.vcxproj -> D:\Nolen\Documents\Computer Science\cpts_121\lab9\lab9_task1\Debug\lab9_task1.exe
+  lab9_task1.vcxproj -> D:\Nolen\Documents\Computer Science\cpts_121\lab9\lab9_task1\Debug\lab9_task1.pdb (Full PDB)

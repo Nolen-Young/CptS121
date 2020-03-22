@@ -1,0 +1,23 @@
+﻿  part_a.c
+d:\nolen\documents\computer science\cpts_121\lab1\lab1task2\lab1task2\part_a.c(17): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+d:\nolen\documents\computer science\cpts_121\lab1\lab1task2\lab1task2\part_a.c(19): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+d:\nolen\documents\computer science\cpts_121\lab1\lab1task2\lab1task2\part_a.c(21): warning C4778: 'scanf' : unterminated format string '%l'
+d:\nolen\documents\computer science\cpts_121\lab1\lab1task2\lab1task2\part_a.c(21): warning C4474: 'scanf' : too many arguments passed for format string
+  d:\nolen\documents\computer science\cpts_121\lab1\lab1task2\lab1task2\part_a.c(21): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+d:\nolen\documents\computer science\cpts_121\lab1\lab1task2\lab1task2\part_a.c(21): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+d:\nolen\documents\computer science\cpts_121\lab1\lab1task2\lab1task2\part_a.c(23): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+d:\nolen\documents\computer science\cpts_121\lab1\lab1task2\lab1task2\part_a.c(25): warning C4473: 'printf' : not enough arguments passed for format string
+  d:\nolen\documents\computer science\cpts_121\lab1\lab1task2\lab1task2\part_a.c(25): note: placeholders and their parameters expect 3 variadic arguments, but 1 were provided
+  d:\nolen\documents\computer science\cpts_121\lab1\lab1task2\lab1task2\part_a.c(25): note: the missing variadic argument 2 is required by format string '%d'
+d:\nolen\documents\computer science\cpts_121\lab1\lab1task2\lab1task2\part_a.c(26): warning C4473: 'printf' : not enough arguments passed for format string
+  d:\nolen\documents\computer science\cpts_121\lab1\lab1task2\lab1task2\part_a.c(26): note: placeholders and their parameters expect 3 variadic arguments, but 1 were provided
+  d:\nolen\documents\computer science\cpts_121\lab1\lab1task2\lab1task2\part_a.c(26): note: the missing variadic argument 2 is required by format string '%.2lf'
+d:\nolen\documents\computer science\cpts_121\lab1\lab1task2\lab1task2\part_a.c(27): warning C4473: 'printf' : not enough arguments passed for format string
+  d:\nolen\documents\computer science\cpts_121\lab1\lab1task2\lab1task2\part_a.c(27): note: placeholders and their parameters expect 3 variadic arguments, but 1 were provided
+  d:\nolen\documents\computer science\cpts_121\lab1\lab1task2\lab1task2\part_a.c(27): note: the missing variadic argument 2 is required by format string '%d'
+  lab1task2.vcxproj -> D:\Nolen\Documents\Computer Science\cpts_121\Lab1\lab1task2\lab1task2\Debug\lab1task2.exe
+  lab1task2.vcxproj -> D:\Nolen\Documents\Computer Science\cpts_121\Lab1\lab1task2\lab1task2\Debug\lab1task2.pdb (Full PDB)

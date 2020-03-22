@@ -1,0 +1,7 @@
+﻿  main.c
+d:\nolen\documents\computer science\cpts_121\lab11\consoleapplication1\consoleapplication1\main.c(6): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[50]'
+d:\nolen\documents\computer science\cpts_121\lab11\consoleapplication1\consoleapplication1\main.c(6): warning C4024: 'isPalindrom': different types for formal and actual parameter 1
+  lab11_task1.c
+  Generating Code...
+  ConsoleApplication1.vcxproj -> D:\Nolen\Documents\Computer Science\cpts_121\lab11\ConsoleApplication1\Debug\ConsoleApplication1.exe
+  ConsoleApplication1.vcxproj -> D:\Nolen\Documents\Computer Science\cpts_121\lab11\ConsoleApplication1\Debug\ConsoleApplication1.pdb (Full PDB)

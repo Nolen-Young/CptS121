@@ -1,0 +1,4 @@
+﻿  Source.c
+d:\nolen\documents\computer science\cpts_121\lab_final\lab1_task1.c\source.c(1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  lab1_task1.c.vcxproj -> D:\Nolen\Documents\Computer Science\cpts_121\lab_final\lab1_task1.c\Debug\lab1_task1.c.exe
+  lab1_task1.c.vcxproj -> D:\Nolen\Documents\Computer Science\cpts_121\lab_final\lab1_task1.c\Debug\lab1_task1.c.pdb (Full PDB)

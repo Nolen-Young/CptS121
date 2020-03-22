@@ -1,0 +1,1 @@
+int maze_solver(int x, int y, char maze[8][8]);

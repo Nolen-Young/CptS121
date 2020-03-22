@@ -1,0 +1,32 @@
+﻿  pa5.c
+d:\nolen\documents\computer science\cpts_121\pa5\pa5\pa5.c(28): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+  main.c
+d:\nolen\documents\computer science\cpts_121\pa5\pa5\main.c(206): warning C4013: 'upper_straight' undefined; assuming extern returning int
+d:\nolen\documents\computer science\cpts_121\pa5\pa5\main.c(26): warning C4047: 'initializing': 'char' differs in levels of indirection from 'char [2]'
+d:\nolen\documents\computer science\cpts_121\pa5\pa5\main.c(41): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: see declaration of 'getch'
+d:\nolen\documents\computer science\cpts_121\pa5\pa5\main.c(48): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+d:\nolen\documents\computer science\cpts_121\pa5\pa5\main.c(56): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+d:\nolen\documents\computer science\cpts_121\pa5\pa5\main.c(93): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+d:\nolen\documents\computer science\cpts_121\pa5\pa5\main.c(158): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+d:\nolen\documents\computer science\cpts_121\pa5\pa5\main.c(169): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+d:\nolen\documents\computer science\cpts_121\pa5\pa5\main.c(180): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+d:\nolen\documents\computer science\cpts_121\pa5\pa5\main.c(182): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+d:\nolen\documents\computer science\cpts_121\pa5\pa5\main.c(193): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+d:\nolen\documents\computer science\cpts_121\pa5\pa5\main.c(204): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+  Generating Code...
+d:\nolen\documents\computer science\cpts_121\pa5\pa5\pa5.c(119): warning C4715: 'three_of_a_kind': not all control paths return a value
+d:\nolen\documents\computer science\cpts_121\pa5\pa5\pa5.c(50): warning C4716: 'roll_dice': must return a value
+d:\nolen\documents\computer science\cpts_121\pa5\pa5\pa5.c(141): warning C4715: 'four_of_a_kind': not all control paths return a value
+  pa5.vcxproj -> D:\Nolen\Documents\Computer Science\cpts_121\pa5\pa5\Debug\pa5.exe
+  pa5.vcxproj -> D:\Nolen\Documents\Computer Science\cpts_121\pa5\pa5\Debug\pa5.pdb (Full PDB)

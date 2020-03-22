@@ -1,0 +1,6 @@
+﻿  part_e.c
+d:\nolen\documents\computer science\cpts_121\lab1\lab1task2\lab1task2\lab1task2_trial2\part_e.c(12): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\nolen\documents\computer science\cpts_121\lab1\lab1task2\lab1task2\lab1task2_trial2\part_e.c(14): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+  lab1task2_trial2.vcxproj -> D:\Nolen\Documents\Computer Science\cpts_121\Lab1\lab1task2\lab1task2\lab1task2_trial2\Debug\lab1task2_trial2.exe
+  lab1task2_trial2.vcxproj -> D:\Nolen\Documents\Computer Science\cpts_121\Lab1\lab1task2\lab1task2\lab1task2_trial2\Debug\lab1task2_trial2.pdb (Full PDB)

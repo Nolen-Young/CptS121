@@ -1,0 +1,10 @@
+﻿  pa8.c
+d:\nolen\documents\computer science\cpts_121\lab_final\pa8\pa8\pa8.c(50): warning C4047: '=': 'int' differs in levels of indirection from 'char *'
+d:\nolen\documents\computer science\cpts_121\lab_final\pa8\pa8\pa8.c(52): warning C4047: '=': 'char *' differs in levels of indirection from 'int'
+d:\nolen\documents\computer science\cpts_121\lab_final\pa8\pa8\pa8.c(121): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  main.c
+d:\nolen\documents\computer science\cpts_121\lab_final\pa8\pa8\main.c(43): warning C4047: 'function': 'Occurrences *' differs in levels of indirection from 'Occurrences *[100]'
+d:\nolen\documents\computer science\cpts_121\lab_final\pa8\pa8\main.c(43): warning C4024: 'maximum_occurrances': different types for formal and actual parameter 2
+  Generating Code...
+  pa8.vcxproj -> D:\Nolen\Documents\Computer Science\cpts_121\lab_final\pa8\Debug\pa8.exe
+  pa8.vcxproj -> D:\Nolen\Documents\Computer Science\cpts_121\lab_final\pa8\Debug\pa8.pdb (Full PDB)

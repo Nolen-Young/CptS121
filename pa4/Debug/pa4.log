@@ -1,0 +1,7 @@
+﻿  main.c
+d:\nolen\documents\computer science\cpts_121\lab6\pa4\main.c(21): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: see declaration of 'getch'
+d:\nolen\documents\computer science\cpts_121\lab6\pa4\main.c(25): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: see declaration of 'getch'
+  pa4.vcxproj -> D:\Nolen\Documents\Computer Science\cpts_121\lab6\pa4\Debug\pa4.exe
+  pa4.vcxproj -> D:\Nolen\Documents\Computer Science\cpts_121\lab6\pa4\Debug\pa4.pdb (Full PDB)

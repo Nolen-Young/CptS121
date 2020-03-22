@@ -1,0 +1,4 @@
+﻿  main.c
+d:\nolen\documents\computer science\cpts_121\lab10\lab10_task1\main.c(9): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+  lab10_task1.vcxproj -> D:\Nolen\Documents\Computer Science\cpts_121\lab10\lab10_task1\Debug\lab10_task1.exe
+  lab10_task1.vcxproj -> D:\Nolen\Documents\Computer Science\cpts_121\lab10\lab10_task1\Debug\lab10_task1.pdb (Full PDB)

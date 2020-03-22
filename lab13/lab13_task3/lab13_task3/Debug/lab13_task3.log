@@ -1,0 +1,5 @@
+﻿  main.c
+d:\nolen\documents\computer science\cpts_121\lab13\lab13_task3\lab13_task3\main.c(10): warning C4133: 'function': incompatible types - from 'char [4]' to 'int *'
+d:\nolen\documents\computer science\cpts_121\lab13\lab13_task3\lab13_task3\main.c(16): warning C4028: formal parameter 1 different from declaration
+  lab13_task3.vcxproj -> D:\Nolen\Documents\Computer Science\cpts_121\lab13\lab13_task3\Debug\lab13_task3.exe
+  lab13_task3.vcxproj -> D:\Nolen\Documents\Computer Science\cpts_121\lab13\lab13_task3\Debug\lab13_task3.pdb (Full PDB)

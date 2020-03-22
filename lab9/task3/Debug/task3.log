@@ -1,0 +1,30 @@
+﻿  task3.c
+d:\nolen\documents\computer science\cpts_121\lab9\task3\task3.c(5): warning C4047: 'function': 'const char *' differs in levels of indirection from 'char **'
+d:\nolen\documents\computer science\cpts_121\lab9\task3\task3.c(5): warning C4024: 'strlen': different types for formal and actual parameter 1
+d:\nolen\documents\computer science\cpts_121\lab9\task3\task3.c(10): warning C4047: '=': 'char' differs in levels of indirection from 'char *'
+  main.c
+d:\nolen\documents\computer science\cpts_121\lab9\task3\main.c(21): warning C4047: 'function': 'char **' differs in levels of indirection from 'char (*)[10][50]'
+d:\nolen\documents\computer science\cpts_121\lab9\task3\main.c(21): warning C4024: 'bubble_sort': different types for formal and actual parameter 1
+d:\nolen\documents\computer science\cpts_121\lab9\task3\main.c(5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+d:\nolen\documents\computer science\cpts_121\lab9\task3\main.c(6): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+d:\nolen\documents\computer science\cpts_121\lab9\task3\main.c(7): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+d:\nolen\documents\computer science\cpts_121\lab9\task3\main.c(8): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+d:\nolen\documents\computer science\cpts_121\lab9\task3\main.c(9): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+d:\nolen\documents\computer science\cpts_121\lab9\task3\main.c(10): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+d:\nolen\documents\computer science\cpts_121\lab9\task3\main.c(11): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+d:\nolen\documents\computer science\cpts_121\lab9\task3\main.c(12): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+d:\nolen\documents\computer science\cpts_121\lab9\task3\main.c(13): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+d:\nolen\documents\computer science\cpts_121\lab9\task3\main.c(14): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+  Generating Code...
+  task3.vcxproj -> D:\Nolen\Documents\Computer Science\cpts_121\lab9\task3\Debug\task3.exe
+  task3.vcxproj -> D:\Nolen\Documents\Computer Science\cpts_121\lab9\task3\Debug\task3.pdb (Full PDB)

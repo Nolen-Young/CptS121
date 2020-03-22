@@ -1,0 +1,4 @@
+﻿  main.c
+d:\nolen\documents\computer science\cpts_121\lab12\lab12_task2\lab12_task2\main.c(9): warning C4013: 'calculate_sum' undefined; assuming extern returning int
+  lab12_task2.vcxproj -> D:\Nolen\Documents\Computer Science\cpts_121\lab12\lab12_task2\Debug\lab12_task2.exe
+  lab12_task2.vcxproj -> D:\Nolen\Documents\Computer Science\cpts_121\lab12\lab12_task2\Debug\lab12_task2.pdb (Full PDB)

@@ -1,0 +1,6 @@
+﻿  main.c
+d:\nolen\documents\computer science\cpts_121\lab12\lab12_task\lab12_task\main.c(7): warning C4047: 'function': 'int' differs in levels of indirection from 'int *'
+d:\nolen\documents\computer science\cpts_121\lab12\lab12_task\lab12_task\main.c(7): warning C4024: 'tower': different types for formal and actual parameter 5
+d:\nolen\documents\computer science\cpts_121\lab12\lab12_task\lab12_task\main.c(12): warning C4028: formal parameter 5 different from declaration
+  lab12_task.vcxproj -> D:\Nolen\Documents\Computer Science\cpts_121\lab12\lab12_task\Debug\lab12_task.exe
+  lab12_task.vcxproj -> D:\Nolen\Documents\Computer Science\cpts_121\lab12\lab12_task\Debug\lab12_task.pdb (Full PDB)

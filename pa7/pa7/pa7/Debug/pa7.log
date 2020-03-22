@@ -1,0 +1,13 @@
+﻿  pa7.c
+d:\nolen\documents\computer science\cpts_121\pa7\pa7\pa7\pa7.c(57): warning C4028: formal parameter 1 different from declaration
+d:\nolen\documents\computer science\cpts_121\pa7\pa7\pa7\pa7.c(80): warning C4553: '==': operator has no effect; did you intend '='?
+d:\nolen\documents\computer science\cpts_121\pa7\pa7\pa7\pa7.c(181): warning C4090: 'function': different 'const' qualifiers
+  main.c
+d:\nolen\documents\computer science\cpts_121\pa7\pa7\pa7\main.c(62): warning C4013: 'getch' undefined; assuming extern returning int
+d:\nolen\documents\computer science\cpts_121\pa7\pa7\pa7\main.c(53): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+d:\nolen\documents\computer science\cpts_121\pa7\pa7\pa7\main.c(111): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+  Generating Code...
+  pa7.vcxproj -> D:\Nolen\Documents\Computer Science\cpts_121\pa7\pa7\Debug\pa7.exe
+  pa7.vcxproj -> D:\Nolen\Documents\Computer Science\cpts_121\pa7\pa7\Debug\pa7.pdb (Full PDB)
